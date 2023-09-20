@@ -91,7 +91,6 @@ ZeroDivisionError: division by zero
 ```
 > Here is an example of using codeblocks for an error that appear in bash
 
-External References[^11]
 
 ## Step 3 - Use Task Lists
 
