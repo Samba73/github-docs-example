@@ -1,6 +1,6 @@
 # Writing Good Documentation
 
-GitHub supports formatting [<sup>[1]</sup>](#references)
+GitHub supports formatting [<sup>[1]</sup>](#external-references)
 
 ## Step 1 - Using Codeblocks
 
@@ -61,7 +61,6 @@ private void buildLayout() {
       refreshContacts(filter.getValue());
   }
 ```
-The references has here <sup>[1]</sup>
 
 <img width="200px" src="https://github.com/Samba73/github-docs-example/assets/90577515/1dd03ee5-d534-4095-8a9d-41eeba2b5f59" />
 
@@ -81,7 +80,7 @@ ZeroDivisionError: division by zero
 
 ## Step 3 - Use Task Lists
 
-GitHub markdown supports creating Task Lists <sup>[2]</sup>
+GitHub markdown supports creating Task Lists [<sup>[2]</sup>](#external-references)
 
 ## Task Lists
 
@@ -92,13 +91,13 @@ GitHub markdown supports creating Task Lists <sup>[2]</sup>
 
 ## Step 4 - Use Emojis (Optional)
 
-GitHub Flavored Markdown (GFM) supports emoji shortcodes.<sup>[3]</sup>
+GitHub Flavored Markdown (GFM) supports emoji shortcodes.[<sup>[3]</sup>](#external-references)
 - :cloud:
 - :cloud_with_lightning_and_rain:
 
 ## Step 5 - How to create a table 
 
-GitHub Flavored Markdown (GGFM) supports table formatting [<sup>[4]</sup>](#references)
+GitHub Flavored Markdown (GGFM) supports table formatting [<sup>[4]</sup>](#external-references)
 
 ```md
 |Name|Shortcode|Emoji|
@@ -112,7 +111,7 @@ GitHub Flavored Markdown (GGFM) supports table formatting [<sup>[4]</sup>](#refe
 
 
 
-## References
+## External References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>[1]</sup>
