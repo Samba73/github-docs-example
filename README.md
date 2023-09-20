@@ -6,10 +6,10 @@ Following some are ToDo and Not ToDo
 
 > [!IMPORTANT]
 > Keep documentation clean
-> 
+
 > [!WARNING]
 > Never use screenshot from mobile
-> 
+
 GitHub supports formatting [<sup>[1]</sup>](#external-references)
 
 ## Step 1 - Using Codeblocks [^1]
