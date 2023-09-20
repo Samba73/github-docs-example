@@ -129,6 +129,7 @@ GitHub Flavored Markdown (GGFM) supports table formatting [<sup>[4]</sup>](#exte
 [^3]: Emoji
 [^4]: Table
 
+[Secret Window Hidden Garden](secret-window/hidden-garden)
 
 ## External References
 
